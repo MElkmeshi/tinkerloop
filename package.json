@@ -1,0 +1,13 @@
+{
+  "name": "tinkerloop",
+  "version": "0.1.0",
+  "description": "Loop `php artisan tinker` with sane restarts (TS)",
+  "bin": {
+    "tinkerloop": "bin/tinkerloop"
+  },
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "license": "MIT"
+}
