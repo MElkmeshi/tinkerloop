@@ -13,7 +13,7 @@ Built in TypeScript.
 Clone and link it globally:
 
 ```bash
-git clone https://github.com/yourname/tinkerloop.git
+git clone https://github.com/melkmeshi/tinkerloop.git
 cd tinkerloop
 npm install
 npm run build
